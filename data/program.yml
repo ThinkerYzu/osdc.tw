@@ -234,6 +234,7 @@ day2:
     room: 2
     speaker: 'thinker'
     title: 'Hacking Syscalls and APIs - By Examples of Firefox OS'
+    slides: 'http://www.codemud.net/~thinker/downloads/osdc-2014-embed.svg'
     intro: |
             The first Firefox OS phone was shipped in 2013. It is an important milestone, but it is just a begin. There are still a lot of improvements waiting for. This talk shows you some interesting ideas of hacking Linux syscalls to improve the performance of Firefox OS. It would cover following topics,
              1. Nuwa 
